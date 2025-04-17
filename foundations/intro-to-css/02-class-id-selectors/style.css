@@ -1,0 +1,19 @@
+.odd {
+	background-color: hsl(333,100%,50%);
+	font-family: 'Verdana';
+}
+
+.three {
+	font-size: 24px;
+}
+
+#two {
+	color: hsl(240,100%,50%);
+	font-size: 36px;
+}
+
+#four {
+	background-color: hsl(120,100%,80%);
+	font-size: 24px;
+	font-weight: 700;
+}
