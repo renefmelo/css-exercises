@@ -7,6 +7,26 @@ img {
   height: 100px;
 }
 
+.plants-info {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.plantas {
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+	justify-content: center;
+}
+
+.planta-card {
+	max-width: 250px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
